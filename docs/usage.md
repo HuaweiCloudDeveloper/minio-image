@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[MinIO-分布式对象存储系统]()
+[MinIO-分布式对象存储系统](https://marketplace.huaweicloud.com/hidden/contents/be9aa1a6-4d97-445f-8bbe-2e1b1bf3db64#productid=OFFI1138677857956487168)
 
 # 商品说明
 

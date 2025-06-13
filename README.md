@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[MinIO-分布式对象存储系统]()
+- 镜像商品：[MinIO-分布式对象存储系统](https://marketplace.huaweicloud.com/hidden/contents/be9aa1a6-4d97-445f-8bbe-2e1b1bf3db64#productid=OFFI1138677857956487168)
 - 镜像规格：MinIO20250422221226.0.0-1-arm-v1.0
 - 预置环境：MinIO20250422221226.0.0-1
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
