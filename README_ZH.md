@@ -44,7 +44,7 @@
 
 | 镜像规格                   | 特性说明 | 备注 |
 |------------------------| --- | --- |
-| [MinIO20250422221226.0.0-1-arm-v1.0]() | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [MinIO20250422221226.0.0-1-arm-v1.0](https://github.com/HuaweiCloudDeveloper/minio-image/tree/MinIO20250422221226.0.0-1-arm-v1.0?tab=readme-ov-file) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/minio-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系

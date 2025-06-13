@@ -26,7 +26,7 @@
 7. Various APIs and ecosystem integration: Compatible with S3 APIs, SDKs of all mainstream development languages (such as Python, Java, and Go), and seamless interconnection with big data tools such as Hadoop, Spark, and Kafka. Provides the MinIO Select function to directly query object content (for example, SQL filtering of CSV/JSON files).
 8. Open source and commercial dual license: The open source version (GNU AGPL v3) includes all core functions, and the enterprise version extends advanced features (such as global caching and multi-site synchronization).
 
-This project offers pre-configured [**`MinIO-Distributed object storage system`**]()，images with MinIO and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**`MinIO-Distributed object storage system`**](https://marketplace.huaweicloud.com/intl/hidden/contents/ff3a26bb-ee3f-42e0-97ff-52fe163a35d6)，images with MinIO and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 **Architecture Design:**
 
