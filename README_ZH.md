@@ -26,7 +26,7 @@
 7. 丰富的API和生态集成：兼容S3 API，支持所有主流开发语言（Python/Java/Go等）的SDK，无缝对接Hadoop、Spark、Kafka等大数据工具。提供MinIO Select功能，支持直接查询对象内容（如CSV/JSON文件的SQL过滤）。
 8. 开源与商业化双许可：开源版本（GNU AGPL v3）包含全部核心功能，企业版扩展了高级特性（如全局缓存、多站点同步）。
 
-本项目提供的开源镜像商品 [**`MinIO-分布式对象存储系统`**]()，已预先安装 MinIO 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`MinIO-分布式对象存储系统`**](https://marketplace.huaweicloud.com/hidden/contents/be9aa1a6-4d97-445f-8bbe-2e1b1bf3db64#productid=OFFI1138677857956487168)，已预先安装 MinIO 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 **架构设计：**
 
